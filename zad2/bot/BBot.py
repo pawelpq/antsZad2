@@ -6,7 +6,6 @@ import itertools
 from AntsGameSimulator import AntsGameSimulator
 from StoreMovePosition import StoreMovePosition
 from TreeGame import TreeGame
-from MinMax2 import MinMax2
 from Utils import Utils
 from scipy.stats.distributions import loggamma
 class BBot:
